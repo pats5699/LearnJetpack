@@ -3,9 +3,9 @@
 <div align=center>
     <h1>Android Experiments</h1>
 </div>
-https://user-images.githubusercontent.com/34768047/227827397-97ef9e97-c927-4171-bcdd-15c4a6395034.mp4
 
 ## About
+https://user-images.githubusercontent.com/34768047/227827397-97ef9e97-c927-4171-bcdd-15c4a6395034.mp4
 
 This repository is where I try out various App architectures, libraries and design 
 patterns.  
