@@ -3,6 +3,7 @@
 <div align=center>
     <h1>Android Experiments</h1>
 </div>
+https://user-images.githubusercontent.com/34768047/227827397-97ef9e97-c927-4171-bcdd-15c4a6395034.mp4
 
 ## About
 
@@ -36,6 +37,9 @@ This achieves this requirement using the following tools and Libraries
 
 
 [How?](app/src/main/java/in/curioustools/architectures/LEARNINGS.md)
+
+
+
 
 
 
